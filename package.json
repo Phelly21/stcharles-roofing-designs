@@ -1,0 +1,1 @@
+{"name":"stcharles-roofing-designs","private":true,"scripts":{"build":"node build/build.js","verify":"node build/verify.js","deploy":"node build/deploy.js"},"devDependencies":{"puppeteer-core":"^25.16.0","sharp":"^0.35.5"}}
